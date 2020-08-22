@@ -1,0 +1,37 @@
+body, ul, ol, li, h1, h2, h3, h4, h5, h6, p,pre, code, form, dl, dt, dd, fieldset, legend, input, textarea, blockquote, th, td, hr, button, article, aside, details, figcaption, figure, footer, header, menu, nav, section {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 14px;
+    color: #333333;
+}
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", sans-serif;
+    background-color: #fff;
+    min-width: 1226px;
+}
+
+a{
+    text-decoration:none;
+    color:#333;
+}
+
+ul,ol{
+    list-style:none;
+}
+input{
+    border:none;
+    outline:none;
+}
+img{
+    padding:0;
+    margin:0;
+}
+
+.clearfix:after{
+    content:"";
+    display:block;
+    clear:both;
+    height:0;
+
+}
