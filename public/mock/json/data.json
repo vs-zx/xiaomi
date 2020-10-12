@@ -1,0 +1,2214 @@
+
+{
+    "ret":true,
+    "navData":{
+        "navList":[
+            {
+                "name":"小米手机",
+                "info":[
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/3bf20f1df3f2e22c5b29ff07634f3c59.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"小米10 青春版 5G",
+                        "price":"1899元起"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/82ddffd7562c54f9166fa876c143ff22.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"小米10 Pro",
+                        "price":"4999元起"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/a4a76ee684e51f0ee531ef3dc7f0aeaf.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"小米10",
+                        "price":"3799元起"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/5d19da60f9f62eb2aa5dcdbd7df19f0f.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"小米MIX Alpha",
+                        "price":"19999元"
+                    }
+                ]
+            },
+            {
+                "name":"Redmi 红米",
+                "info":[
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/7bd1b02e0329bd5c41d193f01349f991.jpg?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"Redmi 9A",
+                        "price":"499元起"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9ddc8849eaf164aac333bfd10627867f.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"Redmi 9",
+                        "price":"799元起"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/6a6548361871303764d6c66142074524.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"Redmi 10X 5G",
+                        "price":"1599元起"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0203f4e7dafcc0c9016a1b48556abf30.jpg?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"Redmi K30 Pro 系列",
+                        "price":"2499元起"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/cff2977b8aab1e43b94b2f00083f4ae1.jpg?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"Redmi K30 系列",
+                        "price":"1399元起"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/dacd6a3d8440b7a038e9778702bd6db6.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"Redmi Note 8",
+                        "price":"899元起"
+                    }
+                ]
+            },
+            {
+                "name":"电视",
+                "info":[
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/ea3390a20547c7298a258528e4aa69ad.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"小米电视 大师 65英寸OLED",
+                        "price":"12999元"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0112cb7e2ea8489fbd36ce3a781d5232.jpg?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"Redmi 智能电视 MAX 98''",
+                        "price":"19999元"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f0f2d1079c767a834f098dd824bb6fee.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"小米电视4A 60英寸",
+                        "price":"1888元"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/70f6c0c28c61e8585805565e5e16da84.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"Redmi 智能电视 X55",
+                        "price":"2166元"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/6917267948c54c647d2009a98637aac6.jpg?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"Redmi 红米电视 70英寸 R70A",
+                        "price":"2999元"
+                    },
+                    {
+                        "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/00f597a8725eee9245e383c35cd4f7b6.jpg?thumb=1&w=240&h=165",
+                        "title":"Redmi 小米壁画电视 65英寸 8",
+                        "price":"6999元起"
+                    }
+                ]
+            },
+            {
+                "name":"笔记本",
+                "info":[
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/3e6c9a677acbb3b0c75d4d0d83e8a695.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"RedmiBook 16",
+                        "price":"4699元起"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/e27b3211230c2b8c21c0ef4efcbc17bc.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"RedmiBook 14 Ⅱ",
+                        "price":"4499元起"
+                    },
+                    {
+                        "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d712f71b3c4a3b562601c2b956a660ad.png?thumb=1&w=240&h=165",
+                        "title":"Pro 15.6\" 2020款",
+                        "price":"5999元起"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/4878fe85208eb0f5edb043717f13766a.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"小米笔记本Air 13.3\"",
+                        "price":"5699元起"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/33c6a31aaee90164ce963801bec48e64.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"小米游戏本",
+                        "price":"6499元起"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0f0f2175b9a6d4fdb0f0eeb843398044.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"显示器",
+                        "price":"2199元起"
+                    }
+                ]
+            },
+            {
+                "name":"家电",
+                "info":[
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/03dc85cd792904ddc8027b2d781beed8.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"米家互联网空调C1（一级能效）",
+                        "price":"1999元"
+                    },
+                    {
+                        "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e06b219c5bced9256467b17738a943c6.png?thumb=1&w=240&h=165",
+                        "title":"米家互联网空调（一级能效）",
+                        "price":"1999元"
+                    },
+                    {
+                        "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c5d772b7c2a159c3ed7d4e31bd293f18.jpg?thumb=1&w=240&h=165",
+                        "title":"Redmi全自动波轮洗衣机1A",
+                        "price":"849元"
+                    },
+                    {
+                        "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/11b8bca444aba2994fe852993eac9203.png?thumb=1&w=240&h=165",
+                        "title":"米家互联网洗烘一体机10kg",
+                        "price":"2099元"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/b7a4e3ff7919ca2407ad970b78abd09a.jpg?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"米家风冷对开门冰箱 483L",
+                        "price":"2288元"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/40ad6e8398095e97309a5538b516a2de.jpg?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"米家两门冰箱 160L",
+                        "price":"949元起"
+                    }
+                ]
+            },
+            {
+                "name":"路由器",
+                "info":[
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/681a92d3e5f03a109558396c99f6a4df.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"Redmi路由器 AX5",
+                        "price":"249元"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/27da43294889d049a111e5ff2cdfafe7.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"小米路由器 AX1800",
+                        "price":"329元"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/359d3c63cc159949d8fe147a11b4bc40.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"小米AIoT路由器AX3600",
+                        "price":"599元"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/aa1e0a4860cf40d34e1192d86691c82c.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"Redmi路由器AC2100",
+                        "price":"169元"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/5dd23c09b7eb6471968537fdce629194.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"小米路由器AC2100",
+                        "price":"229元"
+                    },
+                    {
+                        "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ec5be5f93ac0118aeec27b8df4337fc9.jpg?thumb=1&w=240&h=165",
+                        "title":"小米路由器 Mesh",
+                        "price":"999元"
+                    }
+                ]
+            },
+            {
+                "name":"智能硬件",
+                "info":[
+                    {
+                        "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2a500be4264c692899b25d86c16403f7.jpg?thumb=1&w=240&h=165",
+                        "title":"小米米家智能摄像机云台版",
+                        "price":"199元"
+                    },
+                    {
+                        "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e3fb0886fdb13e5ae784b9713b9a0038.jpg?thumb=1&w=240&h=165",
+                        "title":"小米小爱老师",
+                        "price":"399元"
+                    },
+                    {
+                        "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5630aa997c82409ee33b2814c7eb2244.jpg?thumb=1&w=240&h=165",
+                        "title":"小米米家智能门锁",
+                        "price":"1299元"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/dccc32d8e36685485fa89e0f2a580975.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"Redmi小爱触屏音箱 8",
+                        "price":"349元"
+                    },
+                    {
+                        "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f6e585a4bf5c0f744ca60f19ecd6fadf.jpg?thumb=1&w=240&h=165",
+                        "title":"小米小爱触屏音箱",
+                        "price":"199元起"
+                    },
+                    {
+                        "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/17c0c91317ec0def3ecc072fa9480192.png?thumb=1&w=240&h=165&f=webp&q=90",
+                        "title":"Redmi小爱音箱 Play",
+                        "price":"79元起"
+                    }
+                ]
+            }
+        ],
+        "menuList": [
+            {
+                "id": "0001",
+                "title": "手机 电话卡"
+            },
+            {
+                "id": "0002",
+                "title": "电视 盒子"
+            },
+            {
+                "id": "0003",
+                "title": "笔记本 显示器"
+            },
+            {
+                "id": "0004",
+                "title": "家电 插线板"
+            },
+            {
+                "id": "0005",
+                "title": "出行 穿戴"
+            },
+            {
+                "id": "0006",
+                "title": "智能 路由器"
+            },
+            {
+                "id": "0007",
+                "title": "电源 配件"
+            },
+            {
+                "id": "0008",
+                "title": "健康 儿童"
+            },
+            {
+                "id": "0009",
+                "title": "耳机 音箱"
+            },
+            {
+                "id": "0010",
+                "title": "生活 箱包"
+            }
+        ],
+        "goodsList": [
+            {
+                "info":[
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f5aad5f708998e76742d75d7c6b1394c.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小米10 Pro"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f5aad5f708998e76742d75d7c6b1394c.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小米10 Pro"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f5aad5f708998e76742d75d7c6b1394c.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小米10 Pro"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f5aad5f708998e76742d75d7c6b1394c.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小米10 Pro"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f5aad5f708998e76742d75d7c6b1394c.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小米10 Pro"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f5aad5f708998e76742d75d7c6b1394c.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小米10 Pro"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/461bf013d08a7a91423cafcbc5ff9339.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi K30 Pro 变焦版"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/461bf013d08a7a91423cafcbc5ff9339.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi K30 Pro 变焦版"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/461bf013d08a7a91423cafcbc5ff9339.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi K30 Pro 变焦版"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/461bf013d08a7a91423cafcbc5ff9339.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi K30 Pro 变焦版"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/461bf013d08a7a91423cafcbc5ff9339.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi K30 Pro 变焦版"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/461bf013d08a7a91423cafcbc5ff9339.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi K30 Pro 变焦版"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/22419dee5ddfa9f4a91782231d07e189.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi 10X Pro"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/22419dee5ddfa9f4a91782231d07e189.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi 10X Pro"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/22419dee5ddfa9f4a91782231d07e189.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi 10X Pro"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/22419dee5ddfa9f4a91782231d07e189.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi 10X Pro"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/22419dee5ddfa9f4a91782231d07e189.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi 10X Pro"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/22419dee5ddfa9f4a91782231d07e189.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi 10X Pro"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0cadc8b00dbe3b5615bd6ab657715baf.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi 9"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0cadc8b00dbe3b5615bd6ab657715baf.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi 9"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0cadc8b00dbe3b5615bd6ab657715baf.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi 9"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0cadc8b00dbe3b5615bd6ab657715baf.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi 9"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0cadc8b00dbe3b5615bd6ab657715baf.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi 9"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0cadc8b00dbe3b5615bd6ab657715baf.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi 9"
+                        }
+                    ]
+                ]
+            },
+            {
+                "info": [
+                    [
+                        {
+                            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7da49e7ada2229c963c9c7353a58d49b.png",
+                            "name": "小米电视 大师 65英寸OLED"
+                        },
+                        {
+                            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7da49e7ada2229c963c9c7353a58d49b.png",
+                            "name": "小米电视 大师 65英寸OLED"
+                        },
+                        {
+                            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7da49e7ada2229c963c9c7353a58d49b.png",
+                            "name": "小米电视 大师 65英寸OLED"
+                        },
+                        {
+                            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7da49e7ada2229c963c9c7353a58d49b.png",
+                            "name": "小米电视 大师 65英寸OLED"
+                        },
+                        {
+                            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7da49e7ada2229c963c9c7353a58d49b.png",
+                            "name": "小米电视 大师 65英寸OLED"
+                        },
+                        {
+                            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7da49e7ada2229c963c9c7353a58d49b.png",
+                            "name": "小米电视 大师 65英寸OLED"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d707cdac2a19703b57e65212f32fd25b.png",
+                            "name": "小米电视5 75英寸"
+                        },
+                        {
+                            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d707cdac2a19703b57e65212f32fd25b.png",
+                            "name": "小米电视5 75英寸"
+                        },
+                        {
+                            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d707cdac2a19703b57e65212f32fd25b.png",
+                            "name": "小米电视5 75英寸"
+                        },
+                        {
+                            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d707cdac2a19703b57e65212f32fd25b.png",
+                            "name": "小米电视5 75英寸"
+                        },
+                        {
+                            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d707cdac2a19703b57e65212f32fd25b.png",
+                            "name": "小米电视5 75英寸"
+                        },
+                        {
+                            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d707cdac2a19703b57e65212f32fd25b.png",
+                            "name": "小米电视5 75英寸"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9a3aff2c5e8207dafd8fc3bfad5a2e21.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "全面屏电视Pro 55英寸"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9a3aff2c5e8207dafd8fc3bfad5a2e21.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "全面屏电视Pro 55英寸"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9a3aff2c5e8207dafd8fc3bfad5a2e21.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "全面屏电视Pro 55英寸"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9a3aff2c5e8207dafd8fc3bfad5a2e21.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "全面屏电视Pro 55英寸"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9a3aff2c5e8207dafd8fc3bfad5a2e21.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "全面屏电视Pro 55英寸"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9a3aff2c5e8207dafd8fc3bfad5a2e21.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "全面屏电视Pro 55英寸"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/11e4d06f29877044ddce0f9fdd2e26d5.png?thumb=1&w=60&h=60",
+                            "name": "小米电视4A 58英寸"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/11e4d06f29877044ddce0f9fdd2e26d5.png?thumb=1&w=60&h=60",
+                            "name": "小米电视4A 58英寸"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/11e4d06f29877044ddce0f9fdd2e26d5.png?thumb=1&w=60&h=60",
+                            "name": "小米电视4A 58英寸"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/11e4d06f29877044ddce0f9fdd2e26d5.png?thumb=1&w=60&h=60",
+                            "name": "小米电视4A 58英寸"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/11e4d06f29877044ddce0f9fdd2e26d5.png?thumb=1&w=60&h=60",
+                            "name": "小米电视4A 58英寸"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/11e4d06f29877044ddce0f9fdd2e26d5.png?thumb=1&w=60&h=60",
+                            "name": "小米电视4A 58英寸"
+                        }
+                    ]
+                ]
+            },
+            {
+                "info": [
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "RedmiBook 13"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "RedmiBook 13"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "RedmiBook 13"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "RedmiBook 13"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "RedmiBook 13"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "RedmiBook 13"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/b32e4db4b53b0c56c6040f094e96d945.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "显示器"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/b32e4db4b53b0c56c6040f094e96d945.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "显示器"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/b32e4db4b53b0c56c6040f094e96d945.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "显示器"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/b32e4db4b53b0c56c6040f094e96d945.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "显示器"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/b32e4db4b53b0c56c6040f094e96d945.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "显示器"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/b32e4db4b53b0c56c6040f094e96d945.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "显示器"
+                        }
+                    ]
+                ]
+            },
+            {
+                "info": [
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "冰箱"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "冰箱"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "冰箱"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "冰箱"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "冰箱"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "冰箱"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f7dcbb8c268574041ce0b4b98e591cf1.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "微波炉"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f7dcbb8c268574041ce0b4b98e591cf1.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "微波炉"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f7dcbb8c268574041ce0b4b98e591cf1.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "微波炉"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f7dcbb8c268574041ce0b4b98e591cf1.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "微波炉"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f7dcbb8c268574041ce0b4b98e591cf1.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "微波炉"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f7dcbb8c268574041ce0b4b98e591cf1.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "微波炉"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d93e6a98403262a506c9e9b22293cdae.jpg?thumb=1&w=60&h=60",
+                            "name": "电磁炉"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d93e6a98403262a506c9e9b22293cdae.jpg?thumb=1&w=60&h=60",
+                            "name": "电磁炉"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d93e6a98403262a506c9e9b22293cdae.jpg?thumb=1&w=60&h=60",
+                            "name": "电磁炉"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d93e6a98403262a506c9e9b22293cdae.jpg?thumb=1&w=60&h=60",
+                            "name": "电磁炉"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d93e6a98403262a506c9e9b22293cdae.jpg?thumb=1&w=60&h=60",
+                            "name": "电磁炉"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d93e6a98403262a506c9e9b22293cdae.jpg?thumb=1&w=60&h=60",
+                            "name": "电磁炉"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d1c8cfb055709db380c6de981a4c894b.jpg?thumb=1&w=60&h=60",
+                            "name": "插线板"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d1c8cfb055709db380c6de981a4c894b.jpg?thumb=1&w=60&h=60",
+                            "name": "插线板"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d1c8cfb055709db380c6de981a4c894b.jpg?thumb=1&w=60&h=60",
+                            "name": "插线板"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d1c8cfb055709db380c6de981a4c894b.jpg?thumb=1&w=60&h=60",
+                            "name": "插线板"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d1c8cfb055709db380c6de981a4c894b.jpg?thumb=1&w=60&h=60",
+                            "name": "插线板"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d1c8cfb055709db380c6de981a4c894b.jpg?thumb=1&w=60&h=60",
+                            "name": "插线板"
+                        }
+                    ]
+                ]
+            },
+            {
+                "info": [
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8e8c85f251ed8b5cd54651c4be13bc68.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "手环5NFC"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8e8c85f251ed8b5cd54651c4be13bc68.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "手环5NFC"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8e8c85f251ed8b5cd54651c4be13bc68.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "手环5NFC"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8e8c85f251ed8b5cd54651c4be13bc68.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "手环5NFC"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8e8c85f251ed8b5cd54651c4be13bc68.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "手环5NFC"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8e8c85f251ed8b5cd54651c4be13bc68.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "手环5NFC"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4e9da27ebbeeb38078910c97173c4671.jpg?thumb=1&w=60&h=60",
+                            "name": "滑板车"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4e9da27ebbeeb38078910c97173c4671.jpg?thumb=1&w=60&h=60",
+                            "name": "滑板车"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4e9da27ebbeeb38078910c97173c4671.jpg?thumb=1&w=60&h=60",
+                            "name": "滑板车"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4e9da27ebbeeb38078910c97173c4671.jpg?thumb=1&w=60&h=60",
+                            "name": "滑板车"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4e9da27ebbeeb38078910c97173c4671.jpg?thumb=1&w=60&h=60",
+                            "name": "滑板车"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4e9da27ebbeeb38078910c97173c4671.jpg?thumb=1&w=60&h=60",
+                            "name": "滑板车"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/efd04d4a90822e7e2f04a365083f2607.jpg?thumb=1&w=60&h=60",
+                            "name": "无线车充"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/efd04d4a90822e7e2f04a365083f2607.jpg?thumb=1&w=60&h=60",
+                            "name": "无线车充"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/efd04d4a90822e7e2f04a365083f2607.jpg?thumb=1&w=60&h=60",
+                            "name": "无线车充"
+                        }
+                    ]
+                ]
+            },
+            {
+                "info": [
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5ef6c2d63df78e140afab6ac3c088fac.jpg?thumb=1&w=60&h=60",
+                            "name": "打印机"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5ef6c2d63df78e140afab6ac3c088fac.jpg?thumb=1&w=60&h=60",
+                            "name": "打印机"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5ef6c2d63df78e140afab6ac3c088fac.jpg?thumb=1&w=60&h=60",
+                            "name": "打印机"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5ef6c2d63df78e140afab6ac3c088fac.jpg?thumb=1&w=60&h=60",
+                            "name": "打印机"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5ef6c2d63df78e140afab6ac3c088fac.jpg?thumb=1&w=60&h=60",
+                            "name": "打印机"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5ef6c2d63df78e140afab6ac3c088fac.jpg?thumb=1&w=60&h=60",
+                            "name": "打印机"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/067f4a6f0ffb264ed40734a97deae52d.jpg?thumb=1&w=60&h=60",
+                            "name": "摄像机"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/067f4a6f0ffb264ed40734a97deae52d.jpg?thumb=1&w=60&h=60",
+                            "name": "摄像机"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/067f4a6f0ffb264ed40734a97deae52d.jpg?thumb=1&w=60&h=60",
+                            "name": "摄像机"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/067f4a6f0ffb264ed40734a97deae52d.jpg?thumb=1&w=60&h=60",
+                            "name": "摄像机"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/067f4a6f0ffb264ed40734a97deae52d.jpg?thumb=1&w=60&h=60",
+                            "name": "摄像机"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/067f4a6f0ffb264ed40734a97deae52d.jpg?thumb=1&w=60&h=60",
+                            "name": "摄像机"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3d5963e212402fa5ebd2e71dd10c426c.jpg?thumb=1&w=60&h=60",
+                            "name": "小爱音箱"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3d5963e212402fa5ebd2e71dd10c426c.jpg?thumb=1&w=60&h=60",
+                            "name": "小爱音箱"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3d5963e212402fa5ebd2e71dd10c426c.jpg?thumb=1&w=60&h=60",
+                            "name": "小爱音箱"
+                        }
+                    ]
+                ]
+            },
+            {
+                "info": [
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8c55361386a46857f962e5142baeefcf.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "移动电源"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8c55361386a46857f962e5142baeefcf.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "移动电源"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8c55361386a46857f962e5142baeefcf.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "移动电源"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8c55361386a46857f962e5142baeefcf.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "移动电源"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8c55361386a46857f962e5142baeefcf.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "移动电源"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8c55361386a46857f962e5142baeefcf.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "移动电源"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5c6e60e48edf17219724faad95963b93.jpg?thumb=1&w=60&h=60",
+                            "name": "手机壳"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5c6e60e48edf17219724faad95963b93.jpg?thumb=1&w=60&h=60",
+                            "name": "手机壳"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5c6e60e48edf17219724faad95963b93.jpg?thumb=1&w=60&h=60",
+                            "name": "手机壳"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5c6e60e48edf17219724faad95963b93.jpg?thumb=1&w=60&h=60",
+                            "name": "手机壳"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5c6e60e48edf17219724faad95963b93.jpg?thumb=1&w=60&h=60",
+                            "name": "手机壳"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5c6e60e48edf17219724faad95963b93.jpg?thumb=1&w=60&h=60",
+                            "name": "手机壳"
+                        }
+                    ]
+                ]
+            },
+            {
+                "info": [
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/da43c3dd6b171ee267f1fd1ec01b9208.jpg?thumb=1&w=60&h=60",
+                            "name": "洗手机"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/da43c3dd6b171ee267f1fd1ec01b9208.jpg?thumb=1&w=60&h=60",
+                            "name": "洗手机"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/da43c3dd6b171ee267f1fd1ec01b9208.jpg?thumb=1&w=60&h=60",
+                            "name": "洗手机"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/da43c3dd6b171ee267f1fd1ec01b9208.jpg?thumb=1&w=60&h=60",
+                            "name": "洗手机"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/da43c3dd6b171ee267f1fd1ec01b9208.jpg?thumb=1&w=60&h=60",
+                            "name": "洗手机"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/da43c3dd6b171ee267f1fd1ec01b9208.jpg?thumb=1&w=60&h=60",
+                            "name": "洗手机"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fe6166ca2026008abb86bc67dfd8211d.jpg?thumb=1&w=60&h=60",
+                            "name": "体脂秤"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fe6166ca2026008abb86bc67dfd8211d.jpg?thumb=1&w=60&h=60",
+                            "name": "体脂秤"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fe6166ca2026008abb86bc67dfd8211d.jpg?thumb=1&w=60&h=60",
+                            "name": "体脂秤"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fe6166ca2026008abb86bc67dfd8211d.jpg?thumb=1&w=60&h=60",
+                            "name": "体脂秤"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fe6166ca2026008abb86bc67dfd8211d.jpg?thumb=1&w=60&h=60",
+                            "name": "体脂秤"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fe6166ca2026008abb86bc67dfd8211d.jpg?thumb=1&w=60&h=60",
+                            "name": "体脂秤"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/12235daeb49fd45e709e68c7dacd3336.jpg?thumb=1&w=60&h=60",
+                            "name": "婴儿推车"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/12235daeb49fd45e709e68c7dacd3336.jpg?thumb=1&w=60&h=60",
+                            "name": "婴儿推车"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/12235daeb49fd45e709e68c7dacd3336.jpg?thumb=1&w=60&h=60",
+                            "name": "婴儿推车"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/12235daeb49fd45e709e68c7dacd3336.jpg?thumb=1&w=60&h=60",
+                            "name": "婴儿推车"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/12235daeb49fd45e709e68c7dacd3336.jpg?thumb=1&w=60&h=60",
+                            "name": "婴儿推车"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/12235daeb49fd45e709e68c7dacd3336.jpg?thumb=1&w=60&h=60",
+                            "name": "婴儿推车"
+                        }
+                    ]
+                ]
+            },
+            {
+                "info": [
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/3f682874f18012d3e46c097d48f054c3.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小爱音箱 Art"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/3f682874f18012d3e46c097d48f054c3.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小爱音箱 Art"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/3f682874f18012d3e46c097d48f054c3.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小爱音箱 Art"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/3f682874f18012d3e46c097d48f054c3.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小爱音箱 Art"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/3f682874f18012d3e46c097d48f054c3.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小爱音箱 Art"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/3f682874f18012d3e46c097d48f054c3.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小爱音箱 Art"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/dacef871b6af373b0212e28b028890b8.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi音箱"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/dacef871b6af373b0212e28b028890b8.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi音箱"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/dacef871b6af373b0212e28b028890b8.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi音箱"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/dacef871b6af373b0212e28b028890b8.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi音箱"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/dacef871b6af373b0212e28b028890b8.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi音箱"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/dacef871b6af373b0212e28b028890b8.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "Redmi音箱"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9e8b89fb3702dc7c41248898f2b86f6d.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "蓝牙音箱"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9e8b89fb3702dc7c41248898f2b86f6d.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "蓝牙音箱"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9e8b89fb3702dc7c41248898f2b86f6d.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "蓝牙音箱"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9e8b89fb3702dc7c41248898f2b86f6d.png?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "蓝牙音箱"
+                        }
+                    ]
+                ]
+            },
+            {
+                "info": [
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9f26030d7d914b86daca51233a3ac5f9.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小背包"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9f26030d7d914b86daca51233a3ac5f9.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小背包"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9f26030d7d914b86daca51233a3ac5f9.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小背包"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9f26030d7d914b86daca51233a3ac5f9.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小背包"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9f26030d7d914b86daca51233a3ac5f9.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小背包"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9f26030d7d914b86daca51233a3ac5f9.jpg?thumb=1&w=60&h=60&f=webp&q=90",
+                            "name": "小背包"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/aba45662667dceaf4ba0e5b08f44d3a7.jpg?thumb=1&w=60&h=60",
+                            "name": "床垫"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/aba45662667dceaf4ba0e5b08f44d3a7.jpg?thumb=1&w=60&h=60",
+                            "name": "床垫"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/aba45662667dceaf4ba0e5b08f44d3a7.jpg?thumb=1&w=60&h=60",
+                            "name": "床垫"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/aba45662667dceaf4ba0e5b08f44d3a7.jpg?thumb=1&w=60&h=60",
+                            "name": "床垫"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/aba45662667dceaf4ba0e5b08f44d3a7.jpg?thumb=1&w=60&h=60",
+                            "name": "床垫"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/aba45662667dceaf4ba0e5b08f44d3a7.jpg?thumb=1&w=60&h=60",
+                            "name": "床垫"
+                        }
+                    ],
+                    [
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/59d3a701ac0bbb78f1b1d0ea7ebc7505.jpg?thumb=1&w=60&h=60",
+                            "name": "驱蚊器"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/59d3a701ac0bbb78f1b1d0ea7ebc7505.jpg?thumb=1&w=60&h=60",
+                            "name": "驱蚊器"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/59d3a701ac0bbb78f1b1d0ea7ebc7505.jpg?thumb=1&w=60&h=60",
+                            "name": "驱蚊器"
+                        },
+                        {
+                            "imgUrl": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/59d3a701ac0bbb78f1b1d0ea7ebc7505.jpg?thumb=1&w=60&h=60",
+                            "name": "驱蚊器"
+                        }
+                    ]
+                ]
+            }
+        ]
+    },
+    "bannerDate":[
+        {
+            "id": "0001",
+            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b7c2e5c62dfcaae720a3cd909c0eae52.jpg?w=2452&h=920"
+        },
+        {
+            "id": "0002",
+            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/66c6d0c733c9b8a2dca728033adedc0b.jpg?thumb=1&w=1839&h=690&f=webp&q=90"
+        },
+        {
+            "id": "0003",
+            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ac3ef452ba1527d6bf32dc2c3ffc617c.jpg?thumb=1&w=1839&h=690&f=webp&q=90"
+        },
+        {
+            "id": "0004",
+            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b521de93d5bd2b02fd6589a2d8921d2b.jpg?thumb=1&w=1839&h=690&f=webp&q=90"
+        },
+        {
+            "id": "0005",
+            "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fd26f438f9046e7fe81c7c5b27649fdf.jpg?thumb=1&w=1839&h=690&f=webp&q=90"
+        }
+    ],
+    "flashDate":[
+        {
+            "id":"0001",
+            "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/b48160e1c150044808c9c8787c140750.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+            "title":"日常元素抽纸 青春版 24包/箱",
+            "desc":"精选原生竹浆，健康环保",
+            "price":"27.9元",
+            "oldPrice":"32.9元"
+        },
+        {
+            "id":"0002",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560151939.71121260.png?thumb=1&w=300&h=300",
+            "title":"小米手环4 石墨黑",
+            "desc":"大屏彩显，20天超长续航",
+            "price":"149元",
+            "oldPrice":"169元"
+        },
+        {
+            "id":"0003",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1587552971.69257554.jpg?thumb=1&w=300&h=300",
+            "title":"巨省电 | 小米新1级空调X 1.5匹",
+            "desc":"变频节能巨省电，自清洁",
+            "price":"2099元",
+            "oldPrice":"2399元"
+        },
+        {
+            "id":"0004",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590401885.61658123.jpg?thumb=1&w=300&h=300",
+            "title":"RedmiBook 13 锐龙版 R5 16G 512G  SSD 集显 月光银",
+            "desc":"全面屏高性能轻薄本",
+            "price":"3799元",
+            "oldPrice":"3999元"
+        },
+        {
+            "id":"0005",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1508311018.31143247.jpg?thumb=1&w=300&h=300",
+            "title":"自动折叠伞 黑",
+            "desc":"防泼水伞布，轻盈拒水",
+            "price":"89元",
+            "oldPrice":"99元"
+        },
+        {
+            "id":"0006",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560062441.20748673.jpg?thumb=1&w=300&h=300",
+            "title":"Redmi全自动波轮洗衣机1S 8kg 灰色",
+            "desc":"小身材大容量，可预约",
+            "price":"799元",
+            "oldPrice":"899元"
+        },
+        {
+            "id":"0007",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590392361.07227809.jpg?thumb=1&w=300&h=300",
+            "title":"RedmiBook 16 R5 8G 512G 灰色 灰色",
+            "desc":"超震撼全面屏，超轻薄性能本",
+            "price":"3599元",
+            "oldPrice":"3799元"
+        },
+        {
+            "id":"0008",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590156043.96565283.jpg?thumb=1&w=300&h=300",
+            "title":"米家三门冰箱215L 银色",
+            "desc":"三温区高效保鲜",
+            "price":"1199元",
+            "oldPrice":"1499元"
+        },
+        {
+            "id":"0009",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1570863030.5422884.png?thumb=1&w=300&h=300",
+            "title":"脊安适 颈部按摩器 护颈仪G2 白色G2",
+            "desc":"TENS按摩  双效热敷",
+            "price":"279元",
+            "oldPrice":"399元"
+        },
+        {
+            "id":"0010",
+            "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/318f692b54b277701c7e1a0c16ab93db.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+            "title":"RedmiBook 14 锐龙版 R5 8G 512G PCIe 45%NTSC 银",
+            "desc":"满血锐龙，高性能金属轻薄本",
+            "price":"3299元",
+            "oldPrice":"3699元"
+        },
+        {
+            "id":"0011",
+            "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/2212bbd7c00dbb8ed1db3d6b9ee2341c.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+            "title":"最生活毛巾·Air（10条装） 白色+素蓝",
+            "desc":"给生活一条好毛巾",
+            "price":"99元",
+            "oldPrice":"169元"
+        },
+        {
+            "id":"0012",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1572868360.8284015.jpg?thumb=1&w=300&h=300",
+            "title":"巨省电 | 小米新1级立式空调 3匹",
+            "desc":"新一级能效巨省电，自清洁",
+            "price":"4999元",
+            "oldPrice":"5999元"
+        },
+        {
+            "id":"0013",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1570862996.74362387.png?thumb=1&w=300&h=300",
+            "title":"Fun Home保温泡茶杯（茶水分离） 白色 520ml",
+            "desc":"茶水分离，长效保温",
+            "price":"69元",
+            "oldPrice":"99元"
+        },
+        {
+            "id":"0014",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1566878667.59559757.jpg?thumb=1&w=300&h=300",
+            "title":"RedmiBook 14 增强版 i7/8G/512G 银色",
+            "desc":"十代酷睿更强劲",
+            "price":"4699元",
+            "oldPrice":"4999元"
+        },
+        {
+            "id":"0015",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1587448870.98977292.jpg?thumb=1&w=300&h=300",
+            "title":"米家天然乳胶护颈枕 混灰色",
+            "desc":"天然乳胶 三曲线护颈",
+            "price":"179元",
+            "oldPrice":"199元"
+        },
+        {
+            "id":"0016",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1567408597.79367943.jpg?thumb=1&w=300&h=300",
+            "title":"自清洁 | 米家互联网立式空调 2匹",
+            "desc":"一级能效更省电，自清洁",
+            "price":"3499元",
+            "oldPrice":"4299元"
+        },
+        {
+            "id":"0017",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1561023757.05432233.jpg?thumb=1&w=300&h=300",
+            "title":"小米笔记本Air 12.5\" 2019款 8代M3 4G 256G 金色",
+            "desc":"像杂志一样随身携带",
+            "price":"3699元",
+            "oldPrice":"3999元"
+        },
+        {
+            "id":"0018",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581834090.64929018.jpg?thumb=1&w=300&h=300",
+            "title":"小米手表 尊享版 曜石黑",
+            "desc":" 能打电话、能下载APP，才是真正的智能手表",
+            "price":"1799元",
+            "oldPrice":"1999元"
+        },
+        {
+            "id":"0019",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592217984.22074492.jpg?thumb=1&w=300&h=300",
+            "title":"YUNMAI按摩筋膜枪Pro Basic Pro Basic",
+            "desc":"3档4头专业按摩，80天长效续航，60W强劲电机，深度按摩",
+            "price":"749元",
+            "oldPrice":"899元"
+        },
+        {
+            "id":"0020",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1594121477.9471540.jpg?thumb=1&w=300&h=300",
+            "title":"RedmiBook 14 Ⅱ i5 16G 512G MX350 银色",
+            "desc":" 全面实力，全“芯”超越 ",
+            "price":"4699元",
+            "oldPrice":"4999元"
+        },
+        {
+            "id":"0021",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1572868286.42474195.jpg?thumb=1&w=300&h=300",
+            "title":"巨省电 | 小米新1级立式空调 2匹",
+            "desc":"新一级能效巨省电，自清洁",
+            "price":"3999元",
+            "oldPrice":"4999元"
+        },
+        {
+            "id":"0022",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595588035.7196472.jpg?thumb=1&w=300&h=300",
+            "title":"摩摩哒舒压眼部按摩器 眼部按摩器",
+            "desc":"摩摩哒舒压眼部按摩器",
+            "price":"299元",
+            "oldPrice":"399元"
+        },
+        {
+            "id":"0023",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1569722578.5471530.jpg?thumb=1&w=300&h=300",
+            "title":"小米金属旅行箱 20英寸 银色",
+            "desc":"一个优雅耐用的旅行搭档",
+            "price":"899元",
+            "oldPrice":"999元"
+        },
+        {
+            "id":"0024",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1564108251.37711755.jpg?thumb=1&w=300&h=300",
+            "title":"小米游戏本 i5-9300H 8G 512GB GTX1660Ti 144Hz 深灰",
+            "desc":"性能怪兽再升级",
+            "price":"6499元",
+            "oldPrice":"7499元"
+        },
+        {
+            "id":"0025",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560222640.90428593.jpg?thumb=1&w=300&h=300",
+            "title":"小爱老师 4G版 白色",
+            "desc":"英语提分利器",
+            "price":"849元",
+            "oldPrice":"999元"
+        },
+        {
+            "id":"0026",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1532079051.54116111.jpg?thumb=1&w=300&h=300",
+            "title":"变频 | 米家互联网空调 1.5匹",
+            "desc":"变频，快速制冷热",
+            "price":"1799元",
+            "oldPrice":"2299元"
+        },
+        {
+            "id":"0027",
+            "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9278966e49be3942579f843b576312c3.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+            "title":"游戏本2019款 i7-9750H 16G 1T PCIe GTX 1660Ti 144Hz 深空灰",
+            "desc":"性能怪兽 信仰级游戏体验",
+            "price":"7999元",
+            "oldPrice":"8999元"
+        },
+        {
+            "id":"0028",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1548833307.52655717.jpg?thumb=1&w=300&h=300",
+            "title":"米兔故事机 mini 蓝牙版 蓝色",
+            "desc":"陪伴宝宝时时刻刻",
+            "price":"99元",
+            "oldPrice":"149元"
+        },
+        {
+            "id":"0029",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1527225283.41675643.jpg?thumb=1&w=300&h=300",
+            "title":"小米游戏鼠标 黑色",
+            "desc":"掌中游戏利器，为真玩家而生",
+            "price":"159元",
+            "oldPrice":"199元"
+        },
+        {
+            "id":"0030",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1571407248.73934052.jpg?thumb=1&w=300&h=300",
+            "title":"大白安全恒温淋浴花洒",
+            "desc":"舒适恒温 淋浴花洒",
+            "price":"799元",
+            "oldPrice":"1199元"
+        },
+        {
+            "id":"0031",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560222533.85047588.jpg?thumb=1&w=300&h=300",
+            "title":"小爱老师 白色",
+            "desc":"英语提分利器",
+            "price":"399元",
+            "oldPrice":"499元"
+        },
+        {
+            "id":"0032",
+            "url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f49389dea28b178aff9d6b9a15d753f7.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+            "title":"小米显示器 23.8英寸 黑",
+            "desc":"薄机身，高画质",
+            "price":"679元",
+            "oldPrice":"699元"
+        },
+        {
+            "id":"0033",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595322486.44341647.jpg?thumb=1&w=300&h=300",
+            "title":"悠伴便携果蔬净化器 果蔬净化器",
+            "desc":"悠伴便携果蔬净化器 ",
+            "price":"199元",
+            "oldPrice":"299元"
+        },
+        {
+            "id":"0034",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590138146.64822387.jpg?thumb=1&w=300&h=300",
+            "title":"流浪地球CN373斗式运载车 黄色",
+            "desc":"流浪地球CN373斗式运载车",
+            "price":"399元",
+            "oldPrice":"599元"
+        },
+        {
+            "id":"0035",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1572576289.26263962.jpg?thumb=1&w=300&h=300",
+            "title":"六竖智能杀菌筷筒 白色",
+            "desc":"医用紫外线波长，安静风干",
+            "price":"99元",
+            "oldPrice":"129元"
+        },
+        {
+            "id":"0036",
+            "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592364194.04864132.jpg?thumb=1&w=300&h=300",
+            "title":"朗菲超声波清洗机（双核版） 白色",
+            "desc":"三挡定时清洗，双倍清洁，小身材大容量",
+            "price":"199元",
+            "oldPrice":"299元"
+        }
+    ],
+    "phoneDate":{
+        "bgImg":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/574c6643ab91c6618bfb2d0e2c761d0b.jpg?thumb=1&w=176&h=461&f=webp&q=90",
+        "phoneList":[
+            {
+                "id":"0001",
+                "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/237942bfcaf2bbe82fbe966c2f584d69.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                "title":"腾讯黑鲨3S",
+                "desc":"骁龙865处理器，120Hz刷新率",
+                "price":"3999元起",
+                "oldPrice":""
+            },
+            {
+                "id":"0002",
+                "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c892a7640f58032489cbff8a948b50f9.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                "title":"Redmi 9A",
+                "desc":"5000mAh长循环大电量，6.53\"超大护眼屏幕",
+                "price":"499元起",
+                "oldPrice":""
+            },
+            {
+                "id":"0003",
+                "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8729282b199b3ec51e31c1b6b15f3f93.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                "title":"小米10 青春版 5G",
+                "desc":"50倍潜望式变焦 / 轻薄5G手机.53\"超大护眼屏幕",
+                "price":"1899元起",
+                "oldPrice":"2099元"
+            },
+            {
+                "id":"0004",
+                "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0099822e42b4428cb25c4cdebc6ca53d.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                "title":"小米10",
+                "desc":"骁龙865/1亿像素相机",
+                "price":"3799元起",
+                "oldPrice":"3999元"
+            },
+            {
+                "id":"0005",
+                "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c1aafa589258a4d9fdf49831b457418d.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                "title":"Redmi K30 Pro",
+                "desc":"双模5G，骁龙865，弹出全面屏",
+                "price":"2499元起",
+                "oldPrice":"2699元"
+            },
+            {
+                "id":"0006",
+                "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7cfdbce40301133a287e9e57faa37bdf.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                "title":"Redmi K30 Pro 变焦版",
+                "desc":"双模5G，骁龙865，弹出全面屏",
+                "price":"3799元起",
+                "oldPrice":""
+            },
+            {
+                "id":"0007",
+                "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ccd09671448c4cdb4a3817f68f788662.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                "title":"小米10 Pro",
+                "desc":"骁龙865 / 50倍变焦",
+                "price":"4999元起",
+                "oldPrice":""
+            },
+            {
+                "id":"0008",
+                "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ccd09671448c4cdb4a3817f68f788662.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                "title":"Redmi K30",
+                "desc":"120Hz流速屏，全速热爱",
+                "price":"1399元起",
+                "oldPrice":"1699元"
+            }
+        ]
+    },
+    "otherGoods":{
+        "jiadian":{
+            "title":"家电",
+            "tabList":["热门","电视影音"],
+            "bgList":["https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f256b81e4233333692eece77ed06ebc2.jpg?thumb=1&w=351&h=450&f=webp&q=90",
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e22cf675726deb5eb728f2ccd4cbeafd.jpg?thumb=1&w=351&h=450&f=webp&q=90"],
+            "hotList":[
+                {
+                    "id":"0001",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ef4c68fed730ec26bf2fa0ff620975c5.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"Redmi 红米电视 70英寸 ",
+                    "desc":"70英寸震撼巨屏，4K画质，细腻如真",
+                    "price":"2999元起",
+                    "oldPrice":"3799元"
+                },
+                {
+                    "id":"0002",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8b3fe3a07ef69fb4c959e39c768c7525.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米全面屏电视E32C",
+                    "desc":"全面屏设计，人工智能系统",
+                    "price":"699元起",
+                    "oldPrice":"899元"
+                },
+                {
+                    "id":"0003",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ef6b4e9b9151849b3b1fb1dbf069c6ed.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米全面屏电视E55A",
+                    "desc":"全面屏设计，人工智能语音",
+                    "price":"1799元起",
+                    "oldPrice":"1999元"
+                },
+                {
+                    "id":"0004",
+                    "url":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2b911be4c2f156bb6e4cf367c6080045.jpg?thumb=1&w=300&h=300",
+                    "title":"米家空调",
+                    "desc":"出众静音，快速制冷热",
+                    "price":"1499元起",
+                    "oldPrice":"1799元"
+                },
+                {
+                    "id":"0005",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ec20453216dcd42f982cffe5fdbc3115.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家互联网洗烘一体机 Pro 10kg",
+                    "desc":"智能洗烘，省心省力",
+                    "price":"2999元起",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0006",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b8c63a2024528fe5410ebe669b7d2407.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"Redmi全自动波轮洗衣机1A 8kg",
+                    "desc":"一键操作，父母都爱用",
+                    "price":"849元起",
+                    "oldPrice":"899元"
+                },
+                {
+                    "id":"0007",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cd2aa2dcad6440b469c22e27db9b6236.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"15.6\" 四核i7 16G 独显 512G",
+                    "desc":"全面均衡的国民轻薄本",
+                    "price":"4899元起",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0008",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ccd09671448c4cdb4a3817f68f788662.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"Air 13.3\" 2019款",
+                    "desc":"",
+                    "price":"5699元起",
+                    "oldPrice":""
+                }
+            ],
+            "list2":[
+                {
+                    "id":"0001",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3483b4ec83f3d085c567633f2edef1c1.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米电视4C 32英寸",
+                    "desc":"高清液晶屏，人工智能系统",
+                    "price":"649元起",
+                    "oldPrice":"799元"
+                },
+                {
+                    "id":"0002",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f193daba3989eadac5e13ae102b91582.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"全面屏电视 55英寸E55X",
+                    "desc":"潮流全面屏设计",
+                    "price":"1599元起",
+                    "oldPrice":"1999元"
+                },
+                {
+                    "id":"0003",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9d8674cd21c486feff5328772ab9cf01.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米电视4A 70英寸",
+                    "desc":"大屏更享受",
+                    "price":"2999元起",
+                    "oldPrice":"3999元"
+                },
+                {
+                    "id":"0004",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8156dec11073b1f98db8e4b7598262a4.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米电视4C 43英寸",
+                    "desc":"FHD全高清屏，钢琴烤漆",
+                    "price":"999元起",
+                    "oldPrice":"124.9元起"
+                },
+                {
+                    "id":"0005",
+                    "url":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e2127506fd2209f3115828404269d45.jpg?thumb=1&w=300&h=300",
+                    "title":"小米电视4S 75英寸",
+                    "desc":"4K HDR，人工智能语音",
+                    "price":"3999元起",
+                    "oldPrice":"5999元"
+                },
+                {
+                    "id":"0006",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6a3d09cb5b895f8c3706f513552cd53d.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米全面屏电视65英寸 E65C",
+                    "desc":"震撼大屏，时尚全面屏",
+                    "price":"2599元起",
+                    "oldPrice":"3099元"
+                },
+                {
+                    "id":"0007",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8b3fe3a07ef69fb4c959e39c768c7525.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米全面屏电视E32C",
+                    "desc":"全面屏设计，人工智能系统",
+                    "price":"699元起",
+                    "oldPrice":"899元"
+                },
+                {
+                    "id":"0008",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0e7eee530e4a103f2f5a0937a14bed53.jpg?thumb=1&w=150&h=150&f=webp&q=90",
+                    "title":"小米壁画电视 65英寸",
+                    "desc":"",
+                    "price":"6999元起",
+                    "oldPrice":""
+                }
+            ]
+        },
+        "zhineng":{
+            "title":"智能",
+            "tabList":["热门","安防","出行"],
+            "bgList":["https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/45c23f5b9a927b2dc49c25277e07727c.jpg?thumb=1&w=351&h=450&f=webp&q=90",
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a660ce095e8f553a9ed1515265f4e9fc.jpg?thumb=1&w=351&h=450&f=webp&q=90"],
+            "hotList":[
+                {
+                    "id":"0001",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/011dd8493ad62f3793dbb63d9fbd3bc0.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"Redmi 红米电视 70英寸 ",
+                    "desc":"70英寸震撼巨屏，4K画质，细腻如真",
+                    "price":"2999元起",
+                    "oldPrice":"3799元"
+                },
+                {
+                    "id":"0002",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f0914c60fa1ab807972541b4e2b1a4cd.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米全面屏电视E32C",
+                    "desc":"全面屏设计，人工智能系统",
+                    "price":"699元起",
+                    "oldPrice":"899元"
+                },
+                {
+                    "id":"0003",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e7c6e79433c883e1a022ec21402c1679.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米全面屏电视E55A",
+                    "desc":"全面屏设计，人工智能语音",
+                    "price":"1799元起",
+                    "oldPrice":"1999元"
+                },
+                {
+                    "id":"0004",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/44a30f0da2aacb66a0f896293ebc703f.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家空调",
+                    "desc":"出众静音，快速制冷热",
+                    "price":"1499元起",
+                    "oldPrice":"1799元"
+                },
+                {
+                    "id":"0005",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b42e49c6c0208f2de5a2f7a491a3af46.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家互联网洗烘一体机 Pro 10kg",
+                    "desc":"智能洗烘，省心省力",
+                    "price":"2999元起",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0006",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e850fa029579ba886e3d5c81f00ae534.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"Redmi全自动波轮洗衣机1A 8kg",
+                    "desc":"一键操作，父母都爱用",
+                    "price":"849元起",
+                    "oldPrice":"899元"
+                },
+                {
+                    "id":"0007",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3accd497afc0047cfbd40f442e3b17df.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"15.6\" 四核i7 16G 独显 512G",
+                    "desc":"全面均衡的国民轻薄本",
+                    "price":"4899元起",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0008",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/550177d2e54387521bce9e78cb2949dd.jpg?thumb=1&w=150&h=150&f=webp&q=90",
+                    "title":"Air 13.3\" 2019款",
+                    "desc":"",
+                    "price":"5699元起",
+                    "oldPrice":""
+                }
+            ],
+            "list2":[
+                {
+                    "id":"0001",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2f33baec53cc73e2942277640ba6e710.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家智能门锁 标准锁体 碳素黑",
+                    "desc":"一体化活体指纹识别，多种开锁方式",
+                    "price":"1299元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0002",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2f33baec53cc73e2942277640ba6e710.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家智能门锁 标准锁体 碳素黑",
+                    "desc":"一体化活体指纹识别，多种开锁方式",
+                    "price":"1299元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0003",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2f33baec53cc73e2942277640ba6e710.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家智能门锁 标准锁体 碳素黑",
+                    "desc":"一体化活体指纹识别，多种开锁方式",
+                    "price":"1299元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0004",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2f33baec53cc73e2942277640ba6e710.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家智能门锁 标准锁体 碳素黑",
+                    "desc":"一体化活体指纹识别，多种开锁方式",
+                    "price":"1299元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0005",
+                    "url":"https://i8.mifile.cn/b2c-mimall-media/98c51f977ac5b590dbaf7b8445b30fa6!300x300.jpg",
+                    "title":"小米米家小白智能摄像机增强版",
+                    "desc":"智能看护， AI你所爱",
+                    "price":"399元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0006",
+                    "url":"https://i8.mifile.cn/b2c-mimall-media/98c51f977ac5b590dbaf7b8445b30fa6!300x300.jpg",
+                    "title":"小米米家小白智能摄像机增强版",
+                    "desc":"智能看护， AI你所爱",
+                    "price":"399元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0007",
+                    "url":"https://i8.mifile.cn/b2c-mimall-media/98c51f977ac5b590dbaf7b8445b30fa6!300x300.jpg",
+                    "title":"小米米家小白智能摄像机增强版",
+                    "desc":"智能看护， AI你所爱",
+                    "price":"399元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0008",
+                    "url":"https://i8.mifile.cn/b2c-mimall-media/98c51f977ac5b590dbaf7b8445b30fa6!300x300.jpg",
+                    "title":"小米米家小白智能摄像机增强版",
+                    "desc":"智能看护， AI你所爱",
+                    "price":"399元",
+                    "oldPrice":""
+                }
+            ],
+            "list3":[
+                {
+                    "id":"0001",
+                    "url":"https://i8.mifile.cn/v1/a1/768992ca-4136-92f1-244a-0194a81a6360!300x300.jpg",
+                    "title":"小米米家电动滑板车",
+                    "desc":"便携折叠，自由穿行",
+                    "price":"1999元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0002",
+                    "url":"https://i8.mifile.cn/v1/a1/768992ca-4136-92f1-244a-0194a81a6360!300x300.jpg",
+                    "title":"小米米家电动滑板车",
+                    "desc":"便携折叠，自由穿行",
+                    "price":"1999元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0003",
+                    "url":"https://i8.mifile.cn/v1/a1/768992ca-4136-92f1-244a-0194a81a6360!300x300.jpg",
+                    "title":"小米米家电动滑板车",
+                    "desc":"便携折叠，自由穿行",
+                    "price":"1999元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0004",
+                    "url":"https://i8.mifile.cn/v1/a1/768992ca-4136-92f1-244a-0194a81a6360!300x300.jpg",
+                    "title":"小米米家电动滑板车",
+                    "desc":"便携折叠，自由穿行",
+                    "price":"1999元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0005",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/12fe0ea5e8dafecce5ffa65108796683.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米小背包",
+                    "desc":"城市休闲，简约设计",
+                    "price":"399元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0006",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/12fe0ea5e8dafecce5ffa65108796683.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米小背包",
+                    "desc":"城市休闲，简约设计",
+                    "price":"24.9元起",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0007",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/12fe0ea5e8dafecce5ffa65108796683.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米小背包",
+                    "desc":"城市休闲，简约设计",
+                    "price":"24.9元起",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0008",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/12fe0ea5e8dafecce5ffa65108796683.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米小背包",
+                    "desc":"城市休闲，简约设计",
+                    "price":"24.9元起",
+                    "oldPrice":""
+                }
+            ]
+        },
+        "dapei":{
+            "title":"搭配",
+            "tabList":["热门","耳机音箱"],
+            "bgList":["https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6874615b3c50e837ffe532eb6ea4ef1a.jpg?thumb=1&w=351&h=450&f=webp&q=90",
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a00bdd568dbc2b02f8fe0fa8d1b46f28.jpg?thumb=1&w=351&h=450&f=webp&q=90"],
+            "hotList":[
+                {
+                    "id":"0001",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/50649d7b5706f4cd9f658e93db6b6564.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米真无线蓝牙耳机 Air 2",
+                    "desc":"智能真无线，轻松舒适戴",
+                    "price":"299元",
+                    "oldPrice":"399元"
+                },
+                {
+                    "id":"0002",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/50649d7b5706f4cd9f658e93db6b6564.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米真无线蓝牙耳机 Air 2",
+                    "desc":"智能真无线，轻松舒适戴",
+                    "price":"299元",
+                    "oldPrice":"399元"
+                },{
+                    "id":"0003",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/50649d7b5706f4cd9f658e93db6b6564.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米真无线蓝牙耳机 Air 2",
+                    "desc":"智能真无线，轻松舒适戴",
+                    "price":"299元",
+                    "oldPrice":"399元"
+                },{
+                    "id":"0004",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/50649d7b5706f4cd9f658e93db6b6564.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米真无线蓝牙耳机 Air 2",
+                    "desc":"智能真无线，轻松舒适戴",
+                    "price":"299元",
+                    "oldPrice":"399元"
+                },{
+                    "id":"0005",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/50649d7b5706f4cd9f658e93db6b6564.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米真无线蓝牙耳机 Air 2",
+                    "desc":"智能真无线，轻松舒适戴",
+                    "price":"299元",
+                    "oldPrice":"399元"
+                },{
+                    "id":"0006",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/50649d7b5706f4cd9f658e93db6b6564.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米真无线蓝牙耳机 Air 2",
+                    "desc":"智能真无线，轻松舒适戴",
+                    "price":"299元",
+                    "oldPrice":"399元"
+                },{
+                    "id":"0007",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/50649d7b5706f4cd9f658e93db6b6564.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米真无线蓝牙耳机 Air 2",
+                    "desc":"智能真无线，轻松舒适戴",
+                    "price":"299元",
+                    "oldPrice":"399元"
+                },{
+                    "id":"0008",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/50649d7b5706f4cd9f658e93db6b6564.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米真无线蓝牙耳机 Air 2",
+                    "desc":"智能真无线，轻松舒适戴",
+                    "price":"299元",
+                    "oldPrice":"399元"
+                }
+            ],
+            "list2":[
+                {
+                    "id":"0001",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e6a35e4dfff70f4195b29e8008716d82.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米运动蓝牙耳机青春版",
+                    "desc":"音随你动",
+                    "price":"99元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0002",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e6a35e4dfff70f4195b29e8008716d82.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米运动蓝牙耳机青春版",
+                    "desc":"音随你动",
+                    "price":"99元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0003",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e6a35e4dfff70f4195b29e8008716d82.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米运动蓝牙耳机青春版",
+                    "desc":"音随你动",
+                    "price":"99元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0004",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e6a35e4dfff70f4195b29e8008716d82.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米运动蓝牙耳机青春版",
+                    "desc":"音随你动",
+                    "price":"99元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0005",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e6a35e4dfff70f4195b29e8008716d82.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米运动蓝牙耳机青春版",
+                    "desc":"音随你动",
+                    "price":"99元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0006",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e6a35e4dfff70f4195b29e8008716d82.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米运动蓝牙耳机青春版",
+                    "desc":"音随你动",
+                    "price":"99元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0007",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e6a35e4dfff70f4195b29e8008716d82.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米运动蓝牙耳机青春版",
+                    "desc":"音随你动",
+                    "price":"99元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0008",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e6a35e4dfff70f4195b29e8008716d82.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"小米运动蓝牙耳机青春版",
+                    "desc":"音随你动",
+                    "price":"99元",
+                    "oldPrice":""
+                }
+            ]
+        },
+        "peijian":{
+            "title":"配件",
+            "tabList":["热门","充电器"],
+            "bgList":["https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/739ebd8abfc2b1be8866a2c1ad87e709.jpg?thumb=1&w=351&h=450&f=webp&q=90",
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ffe4182f1d9a5befdf2380ec90ae1620.jpg?thumb=1&w=351&h=450&f=webp&q=90"],
+            "hotList":[
+                {
+                    "id":"0001",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9eb0178e3bfeb7d170edd641fb4be4bc.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"高速无线充套装",
+                    "desc":"快速无线闪充，Qi充电标准",
+                    "price":"149元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0002",
+                     "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9eb0178e3bfeb7d170edd641fb4be4bc.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"高速无线充套装",
+                    "desc":"快速无线闪充，Qi充电标准",
+                    "price":"149元",
+                    "oldPrice":""
+                },{
+                    "id":"0003",
+                     "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9eb0178e3bfeb7d170edd641fb4be4bc.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"高速无线充套装",
+                    "desc":"快速无线闪充，Qi充电标准",
+                    "price":"149元",
+                    "oldPrice":""
+                },{
+                    "id":"0004",
+                     "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9eb0178e3bfeb7d170edd641fb4be4bc.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"高速无线充套装",
+                    "desc":"快速无线闪充，Qi充电标准",
+                    "price":"149元",
+                    "oldPrice":""
+                },{
+                    "id":"0005",
+                     "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9eb0178e3bfeb7d170edd641fb4be4bc.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"高速无线充套装",
+                    "desc":"快速无线闪充，Qi充电标准",
+                    "price":"149元",
+                    "oldPrice":""
+                },{
+                    "id":"0006",
+                     "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9eb0178e3bfeb7d170edd641fb4be4bc.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"高速无线充套装",
+                    "desc":"快速无线闪充，Qi充电标准",
+                    "price":"149元",
+                    "oldPrice":""
+                },{
+                    "id":"0007",
+                     "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9eb0178e3bfeb7d170edd641fb4be4bc.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"高速无线充套装",
+                    "desc":"快速无线闪充，Qi充电标准",
+                    "price":"149元",
+                    "oldPrice":""
+                },{
+                    "id":"0008",
+                     "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9eb0178e3bfeb7d170edd641fb4be4bc.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"高速无线充套装",
+                    "desc":"快速无线闪充，Qi充电标准",
+                    "price":"149元",
+                    "oldPrice":""
+                }
+            ],
+            "list2":[
+                {
+                    "id":"0001",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c85b67f1c4f5e460a4be5cea5858264b.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家智能插座蓝牙网关版",
+                    "desc":"让传统家电变智能",
+                    "price":"59元",
+                    "oldPrice":"79元"
+                },
+                {
+                    "id":"0002",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c85b67f1c4f5e460a4be5cea5858264b.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家智能插座蓝牙网关版",
+                    "desc":"让传统家电变智能",
+                    "price":"59元",
+                    "oldPrice":"79元"
+                },
+                {
+                    "id":"0003",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c85b67f1c4f5e460a4be5cea5858264b.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家智能插座蓝牙网关版",
+                    "desc":"让传统家电变智能",
+                    "price":"59元",
+                    "oldPrice":"79元"
+                },
+                {
+                    "id":"0004",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c85b67f1c4f5e460a4be5cea5858264b.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家智能插座蓝牙网关版",
+                    "desc":"让传统家电变智能",
+                    "price":"59元",
+                    "oldPrice":"79元"
+                },
+                {
+                    "id":"0005",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c85b67f1c4f5e460a4be5cea5858264b.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家智能插座蓝牙网关版",
+                    "desc":"让传统家电变智能",
+                    "price":"59元",
+                    "oldPrice":"79元"
+                },
+                {
+                    "id":"0006",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c85b67f1c4f5e460a4be5cea5858264b.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家智能插座蓝牙网关版",
+                    "desc":"让传统家电变智能",
+                    "price":"59元",
+                    "oldPrice":"79元"
+                },
+                {
+                    "id":"0007",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c85b67f1c4f5e460a4be5cea5858264b.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家智能插座蓝牙网关版",
+                    "desc":"让传统家电变智能",
+                    "price":"59元",
+                    "oldPrice":"79元"
+                },
+                {
+                    "id":"0008",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c85b67f1c4f5e460a4be5cea5858264b.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家智能插座蓝牙网关版",
+                    "desc":"让传统家电变智能",
+                    "price":"59元",
+                    "oldPrice":"79元"
+                }
+            ]
+        },
+        "zhoubian":{
+            "title":"周边",
+            "tabList":["热门","出行"],
+            "bgList":["https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/37dc0898c2624b4130da4631f2d9a675.jpg?thumb=1&w=351&h=450&f=webp&q=90",
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/582984b9c56cf3c48382a81528a4dfdf.jpg?thumb=1&w=351&h=450&f=webp&q=90"],
+            "hotList":[
+                {
+                    "id":"0001",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cccac948e1b8ffb47f1fecde67692e60.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家飞行员太阳镜 Pro",
+                    "desc":"尼龙偏光，轻巧佩戴",
+                    "price":"199元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0002",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cccac948e1b8ffb47f1fecde67692e60.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家飞行员太阳镜 Pro",
+                    "desc":"尼龙偏光，轻巧佩戴",
+                    "price":"199元",
+                    "oldPrice":""
+                },{
+                    "id":"0003",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cccac948e1b8ffb47f1fecde67692e60.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家飞行员太阳镜 Pro",
+                    "desc":"尼龙偏光，轻巧佩戴",
+                    "price":"199元",
+                    "oldPrice":""
+                },{
+                    "id":"0004",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cccac948e1b8ffb47f1fecde67692e60.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家飞行员太阳镜 Pro",
+                    "desc":"尼龙偏光，轻巧佩戴",
+                    "price":"199元",
+                    "oldPrice":""
+                },{
+                    "id":"0005",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cccac948e1b8ffb47f1fecde67692e60.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家飞行员太阳镜 Pro",
+                    "desc":"尼龙偏光，轻巧佩戴",
+                    "price":"199元",
+                    "oldPrice":""
+                },{
+                    "id":"0006",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cccac948e1b8ffb47f1fecde67692e60.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家飞行员太阳镜 Pro",
+                    "desc":"尼龙偏光，轻巧佩戴",
+                    "price":"199元",
+                    "oldPrice":""
+                },{
+                    "id":"0007",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cccac948e1b8ffb47f1fecde67692e60.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家飞行员太阳镜 Pro",
+                    "desc":"尼龙偏光，轻巧佩戴",
+                    "price":"199元",
+                    "oldPrice":""
+                },{
+                    "id":"0008",
+                    "url":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cccac948e1b8ffb47f1fecde67692e60.jpg?thumb=1&w=300&h=300&f=webp&q=90",
+                    "title":"米家飞行员太阳镜 Pro",
+                    "desc":"尼龙偏光，轻巧佩戴",
+                    "price":"199元",
+                    "oldPrice":""
+                }
+            ],
+            "list2":[
+                {
+                    "id":"0001",
+                    "url":"https://i8.mifile.cn/v1/a1/T1r_x_BgLT1RXrhCrK!300x300.jpg",
+                    "title":"九号平衡车",
+                    "desc":"年轻人的酷玩具",
+                    "price":"1999元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0002",
+                   "url":"https://i8.mifile.cn/v1/a1/T1r_x_BgLT1RXrhCrK!300x300.jpg",
+                    "title":"九号平衡车",
+                    "desc":"年轻人的酷玩具",
+                    "price":"1999元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0003",
+                   "url":"https://i8.mifile.cn/v1/a1/T1r_x_BgLT1RXrhCrK!300x300.jpg",
+                    "title":"九号平衡车",
+                    "desc":"年轻人的酷玩具",
+                    "price":"1999元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0004",
+                   "url":"https://i8.mifile.cn/v1/a1/T1r_x_BgLT1RXrhCrK!300x300.jpg",
+                    "title":"九号平衡车",
+                    "desc":"年轻人的酷玩具",
+                    "price":"1999元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0005",
+                   "url":"https://i8.mifile.cn/v1/a1/T1r_x_BgLT1RXrhCrK!300x300.jpg",
+                    "title":"九号平衡车",
+                    "desc":"年轻人的酷玩具",
+                    "price":"1999元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0006",
+                   "url":"https://i8.mifile.cn/v1/a1/T1r_x_BgLT1RXrhCrK!300x300.jpg",
+                    "title":"九号平衡车",
+                    "desc":"年轻人的酷玩具",
+                    "price":"1999元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0007",
+                   "url":"https://i8.mifile.cn/v1/a1/T1r_x_BgLT1RXrhCrK!300x300.jpg",
+                    "title":"九号平衡车",
+                    "desc":"年轻人的酷玩具",
+                    "price":"1999元",
+                    "oldPrice":""
+                },
+                {
+                    "id":"0008",
+                   "url":"https://i8.mifile.cn/v1/a1/T1r_x_BgLT1RXrhCrK!300x300.jpg",
+                    "title":"九号平衡车",
+                    "desc":"年轻人的酷玩具",
+                    "price":"1999元",
+                    "oldPrice":""
+                }
+            ]
+        }
+    }
+}

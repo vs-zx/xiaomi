@@ -10,18 +10,23 @@
           </a>
         </div>
       </div>
-      <div class="phone-content">
+
+      <div class="phone-content" v-if="list">
         <div class="left">
           <a href="###" class="left-link">
-            <img :src="bgImgUrl" />
+            <img v-lazy="list.bgImg" />
           </a>
         </div>
         <div class="right">
-          <ul class="phone-list" v-if="phoneList.length">
-            <li class="phone-item" v-for="item of phoneList" :key="item.id">
+          <ul class="phone-list">
+            <li
+              class="phone-item"
+              v-for="item of list.phoneList"
+              :key="item.id"
+            >
               <a href="###" class="item-link">
                 <div class="item-img">
-                  <img :src="item.url" alt="subItem.title" />
+                  <img v-lazy="item.url" alt="subItem.title" />
                 </div>
                 <h3 class="name">{{ item.title }}</h3>
                 <p class="desc">{{ item.desc }}</p>
@@ -35,41 +40,24 @@
         </div>
       </div>
       <!-- 广告 -->
-    <home-ad :adInx="2"></home-ad>
-
+      <home-ad :adIndex="2"></home-ad>
     </div>
   </div>
 </template>
 
 <script>
-import axios from "axios";
 import homeAd from "common/ad";
 
 export default {
-  data() {
-    return {
-      bgImgUrl: "",
-      phoneList: []
-    };
-  },
-    components: {
-    homeAd
-  },
-  methods: {
-    getPhoneInfo() {
-      axios.get("/api/json/phone.json").then(this.getPhoneInfoSuccess);
+  props: {
+    list: {
+      type: Object,
+      default: {},
     },
-    getPhoneInfoSuccess(res) {
-      if (res.data) {
-        const data = res.data;
-        this.bgImgUrl = data.bgImg;
-        this.phoneList = data.phoneList;
-      }
-    }
   },
-  mounted() {
-    this.getPhoneInfo();
-  }
+  components: {
+    homeAd,
+  },
 };
 </script>
 
@@ -151,7 +139,7 @@ export default {
         display: block;
         width: 100%;
         height: 100%;
-        text-align:center;
+        text-align: center;
         .item-img {
           margin: 0 auto 18px;
           img {
@@ -159,7 +147,8 @@ export default {
             height: 160px;
           }
         }
-        .name,.desc {
+        .name,
+        .desc {
           margin: 0 10px 2px;
           font-size: 14px;
           font-weight: 400;
@@ -169,7 +158,7 @@ export default {
           white-space: nowrap;
         }
         .desc {
-            height:18px;
+          height: 18px;
 
           font-size: 12px;
           color: #b0b0b0;
@@ -182,7 +171,7 @@ export default {
           .oldPrice {
             color: #b0b0b0;
             text-decoration: line-through;
-            padding-left:10px;
+            padding-left: 10px;
           }
         }
       }

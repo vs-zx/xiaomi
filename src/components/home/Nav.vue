@@ -4,16 +4,17 @@
       <div class="nav-log">
         <a href="\" title="小米官网" class="logo"></a>
       </div>
+
       <div class="nav-list">
-        <ul class="list-wrap">
+        <ul class="list-wrap" >
           <li
             class="list-item"
-            v-for="(item, index) of navList"
+            v-for="(item, index) of list.navList"
             :key="index"
             @mouseenter="showBottomList(index)"
           >
             <span class="text">{{ item.name }}</span>
-            <div class="item-container" v-show="currentNum == index">
+            <div class="item-container" v-show="index === currentNum">
               <ul class="child-list">
                 <li
                   class="child-item"
@@ -21,7 +22,7 @@
                   :key="index"
                 >
                   <div class="figure">
-                    <img :src="info.url" :alt="info.title" />
+                    <img v-lazy="info.url" :alt="info.title" />
                   </div>
                   <p class="title">{{ info.title }}</p>
                   <p class="price">{{ info.price }}</p>
@@ -29,6 +30,7 @@
               </ul>
             </div>
           </li>
+
           <li class="list-item">
             <span class="text">服务</span>
           </li>
@@ -37,6 +39,7 @@
           </li>
         </ul>
       </div>
+
       <div class="nav-search">
         <input
           type="text"
@@ -51,39 +54,30 @@
         </a>
       </div>
       <!-- 右侧商品展示 -->
-      <goods-list></goods-list>
+      <goods-list :list="list"></goods-list>
     </div>
   </div>
 </template>
 
 <script>
 import GoodsList from "@/components/home/Goods.vue";
-import axios from "axios";
 
 export default {
   name: "HomeNav",
+  props:{
+    list:{type:Object}
+  },
   components: {
-    GoodsList
+    GoodsList,
   },
   data() {
     return {
-      currentNum: 0,
-      navList: []
+      currentNum: ""
     };
   },
   methods: {
     showBottomList(index) {
       this.currentNum = index;
-    },
-    getNavInfo() {
-      axios.get("/api/json/nav.json").then(this.getNavInfoSucess);
-    },
-    getNavInfoSucess(res) {
-      res = res.data;
-      if (res.ret && res.data) {
-        const data = res.data;
-        this.navList = data;
-      }
     },
     changeBorderColor() {
       const search = this.$refs.search;
@@ -96,10 +90,7 @@ export default {
       const btn = this.$refs.btn;
       search.style.borderColor = "#e0e0e0";
       btn.style.borderColor = "#e0e0e0";
-    }
-  },
-  mounted() {
-    this.getNavInfo();
+    },
   }
 };
 </script>

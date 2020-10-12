@@ -37,7 +37,8 @@ export default {
   data() {
     return {
       scrollY: 0,
-      screenHeight: 1000
+      screenHeight: 1000,
+      timer: "",
     };
   },
   methods: {
@@ -53,14 +54,14 @@ export default {
     },
     backTop() {
       document.documentElement.scrollTop = 0;
-    }
+    },
   },
   mounted() {
     window.addEventListener("scroll", this.scrollToTop);
   },
   destroyed() {
     window.removeEventListener("scroll", this.scrollToTop);
-  }
+  },
 };
 </script>
 

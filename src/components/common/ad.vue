@@ -1,20 +1,48 @@
 <template>
   <div class="advertising">
     <div class="container">
-      <img src="../../assets/img/ad/ad1.jpg" class="advertising-img" v-if="adInx === 1"/>
-      <img src="../../assets/img/ad/ad2.jpg" class="advertising-img" v-if="adInx === 2"/>
-      <img src="../../assets/img/ad/ad3.jpg" class="advertising-img" v-if="adInx === 3"/>
-      <img src="../../assets/img/ad/ad4.jpg" class="advertising-img" v-if="adInx === 4"/>
-      <img src="../../assets/img/ad/ad5.jpg" class="advertising-img" v-if="adInx === 5"/>
-      <img src="../../assets/img/ad/ad6.jpg" class="advertising-img" v-if="adInx === 6"/>
-      <img src="../../assets/img/ad/ad7.jpg" class="advertising-img" v-if="adInx === 7"/>
+      <img
+        class="advertising-img"
+        v-lazy="require('../../assets/img/ad/ad1.jpg')"
+        v-if="adIndex === 1"
+      />
+      <img
+        class="advertising-img"
+        v-lazy="require('../../assets/img/ad/ad2.jpg')"
+        v-if="adIndex === 2"
+      />
+      <img
+        class="advertising-img"
+        v-lazy="require('../../assets/img/ad/ad3.jpg')"
+        v-if="adIndex === 3"
+      />
+      <img
+        class="advertising-img"
+        v-lazy="require('../../assets/img/ad/ad4.jpg')"
+        v-if="adIndex === 4"
+      />
+      <img
+        class="advertising-img"
+        v-lazy="require('../../assets/img/ad/ad5.jpg')"
+        v-if="adIndex === 5"
+      />
+      <img
+        class="advertising-img"
+        v-lazy="require('../../assets/img/ad/ad6.jpg')"
+        v-if="adIndex === 6"
+      />
+      <img
+        class="advertising-img"
+        v-lazy="require('../../assets/img/ad/ad7.jpg')"
+        v-if="adIndex === 7"
+      />
     </div>
   </div>
 </template>
 
 <script>
 export default {
-  props: { adInx: Number }
+  props: { adIndex: Number },
 };
 </script>
 

@@ -1,6 +1,6 @@
 <template>
   <div class="main">
-    <div class="container">
+    <div class="container" v-if="info">
       <!-- 标题 -->
       <div class="main-title">
         <h2 class="text">{{ info.title }}</h2>
@@ -28,7 +28,7 @@
               :key="index"
             >
               <a href="###" class="left-link">
-                <img :src="item" class="left-leftImg" />
+                <img v-lazy="item" class="left-leftImg" />
               </a>
             </li>
           </ul>
@@ -38,7 +38,7 @@
             <li class="list-item" v-for="item of info.hotList" :key="item.id">
               <a href="###" class="list-link">
                 <div class="pic">
-                  <img :src="item.url" alt="subItem.title" class="pic-img" />
+                  <img v-lazy="item.url" alt="subItem.title" class="pic-img" />
                 </div>
                 <h3 class="name">{{ item.title }}</h3>
                 <p class="desc">{{ item.desc }}</p>
@@ -53,7 +53,7 @@
             <li class="list-item" v-for="item of info.list2" :key="item.id">
               <a href="###" class="list-link">
                 <div class="pic">
-                  <img :src="item.url" alt="subItem.title" class="pic-img" />
+                  <img v-lazy="item.url" alt="subItem.title" class="pic-img" />
                 </div>
                 <h3 class="name">{{ item.title }}</h3>
                 <p class="desc">{{ item.desc }}</p>
@@ -68,7 +68,7 @@
             <li class="list-item" v-for="item of info.list3" :key="item.id">
               <a href="###" class="list-link">
                 <div class="pic">
-                  <img :src="item.url" alt="subItem.title" class="pic-img" />
+                  <img v-lazy="item.url" alt="subItem.title" class="pic-img" />
                 </div>
                 <h3 class="name">{{ item.title }}</h3>
                 <p class="desc">{{ item.desc }}</p>

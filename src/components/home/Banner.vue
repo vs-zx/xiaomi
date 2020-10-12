@@ -2,14 +2,14 @@
   <div class="banner">
     <div class="container">
       <div class="swiper-wrap">
-        <swiper :options="swiperOptions" v-if="showSwiper">
+        <swiper :options="swiperOptionSwp1" v-if="showSwiper">
           <swiper-slide v-for="item of list" :key="item.id">
             <img :src="item.imgUrl" />
           </swiper-slide>
 
           <div class="swiper-pagination" slot="pagination"></div>
-          <div class="swiper-button-prev" slot="button-prev"></div>
-          <div class="swiper-button-next" slot="button-next"></div>
+          <div class="swiper-button-prev swp1" slot="button-prev"></div>
+          <div class="swiper-button-next swp1" slot="button-next"></div>
         </swiper>
       </div>
 
@@ -58,17 +58,17 @@
           <ul class="promo-list">
             <li>
               <a href="javascript:;">
-                <img src="../../assets/img/banner/h1.jpg" />
+                <img v-lazy="require('../../assets/img/banner/h1.jpg')" />
               </a>
             </li>
             <li>
               <a href="javascript:;">
-                <img src="../../assets/img/banner/h2.jpg" />
+                <img v-lazy="require('../../assets/img/banner/h2.jpg')" />
               </a>
             </li>
             <li>
               <a href="javascript:;">
-                <img src="../../assets/img/banner/h3.jpg" />
+                <img v-lazy="require('../../assets/img/banner/h3.jpg')" />
               </a>
             </li>
           </ul>
@@ -79,25 +79,28 @@
 </template>
 
 <script>
-import axios from "axios";
-
 export default {
   name: "HomeBanner",
+  props:{
+    list:{
+      type:Array,
+      default:[]
+    }
+  },
   data() {
     return {
-      list: [],
-      swiperOptions: {
-        // 自动切换图配置
+      swiperOptionSwp1: {
+        // 自动切换
         autoplay: {
-          delay: 5000,
+          delay: 2000,
           stopOnLastSlide: false,
-          disableOnInteraction: true
+          disableOnInteraction: false
         },
         loop: true,
-        // 箭头配置
+        // 箭头按钮
         navigation: {
-          nextEl: ".swiper-button-next",
-          prevEl: ".swiper-button-prev"
+          nextEl: ".swiper-button-next.swp1",
+          prevEl: ".swiper-button-prev.swp1"
         },
         // 分页器配置
         pagination: {
@@ -106,18 +109,6 @@ export default {
         },
       }
     };
-  },
-  methods: {
-    getBannerInfo() {
-      axios.get("/api/json/banner.json").then(this.getBannerInfoSucess);
-    },
-    getBannerInfoSucess(res) {
-      const data = res.data;
-      this.list = data;
-    }
-  },
-  mounted() {
-    this.getBannerInfo();
   },
   computed: {
     showSwiper() {

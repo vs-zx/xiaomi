@@ -18,13 +18,13 @@
           </div>
         </div>
         <div class="swiper-wrap">
-          <swiper :options="swiperOptions" v-if="list.length">
-            <swiper-slide v-for="(item, index) in pages" :key="index">
+          <swiper :options="swiperOptionSwp2" v-if="list.length">
+            <swiper-slide v-for="(item, index) of pages" :key="index">
               <ul class="swiper-inner-wrap">
                 <li class="item" v-for="subItem in item" :key="subItem.id">
                   <a href="###" class="item-link">
                     <div class="img">
-                      <img :src="subItem.url" alt="subItem.title" />
+                      <img v-lazy="subItem.url" alt="subItem.title" />
                     </div>
                     <h3 class="name">
                       {{ subItem.title }}
@@ -39,39 +39,44 @@
               </ul>
             </swiper-slide>
           </swiper>
-          <div class="swiper-button-prev" slot="button-prev"></div>
-          <div class="swiper-button-next" slot="button-next"></div>
+
+          <div class="swiper-button-prev swp2" slot="button-prev"></div>
+          <div class="swiper-button-next swp2" slot="button-next"></div>
         </div>
       </div>
     </div>
-    <home-ad :adInx="1"></home-ad>
+    <home-ad :adIndex="1"></home-ad>
   </div>
 </template>
 
 <script>
-import axios from "axios";
 import homeAd from "common/ad";
 
 export default {
   name: "HomeFlash",
+  props:{
+    list:{
+      type:Array,
+      default:[]
+    }
+  },
   data() {
     return {
       time: 0,
       hour: 0,
       minute: 0,
       second: 0,
-      list: [],
-      swiperOptions: {
+      swiperOptionSwp2: {
         speed: 1000,
         autoplay: {
-          delay: 6000,
+          delay: 5000,
           stopOnLastSlide: false,
-          disableOnInteraction: true
+          disableOnInteraction: false
         },
         loop: false,
         navigation: {
-          nextEl: ".swiper-button-next",
-          prevEl: ".swiper-button-prev"
+          nextEl: ".swiper-button-next.swp2",
+          prevEl: ".swiper-button-prev.swp2"
         }
       }
     };
@@ -83,18 +88,17 @@ export default {
     countTime() {
       //获取当前时间
       let date = new Date();
-      let now = Date.now();
       let year = date.getFullYear();
       let month = date.getMonth();
       let day = date.getDate();
       let hours = date.getHours();
       // 获取场次时间，每4小时一场
-      this.time = Math.floor(hours / 4) * 4+2;
+      this.time = Math.floor(hours / 4) * 4-2;
       //截止时间 以场次为基准，4小时后的时间
       let endDate = new Date(year, month, day, this.time + 4);
       let end = endDate.getTime();
       // 时间差
-      let timeDiff = end - now;
+      let timeDiff = end - Date.now();
       //定义变量 d,h,m,s保存倒计时的时间
       let h, m, s;
       if (timeDiff >= 0) {
@@ -105,19 +109,13 @@ export default {
       h = h < 10 ? "0" + h : h;
       m = m < 10 ? "0" + m : m;
       s = s < 10 ? "0" + s : s;
-      // 赋值给指定数据
+      // 赋值
       this.hour = h;
       this.minute = m;
       this.second = s;
       // 递归调用
       setTimeout(this.countTime, 1000);
     },
-    getFlashInfo() {
-      axios.get("/api/json/flash.json").then(this.getFlashInfoSuccess);
-    },
-    getFlashInfoSuccess(res) {
-      this.list = res.data;
-    }
   },
   computed: {
     // 将list数组数据分页
@@ -136,7 +134,6 @@ export default {
   },
   mounted() {
     this.countTime();
-    this.getFlashInfo();
   }
 };
 </script>

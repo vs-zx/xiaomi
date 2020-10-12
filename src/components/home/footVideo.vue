@@ -2,7 +2,7 @@
   <div class="video">
     <div class="container">
       <div class="video-title">
-        <h2 class="text">手机</h2>
+        <h2 class="text">视频</h2>
         <div class="more">
           <a href="###" class="more-link">
             查看全部
